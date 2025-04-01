@@ -1,6 +1,6 @@
 '''
 Cryptic name generator – You are creating a cryptic name generator 
-and the first step in this process is to interleave the user’s first name 
+and the first step in this process is to enter the user’s first name 
 with a number after every character. Here are the steps to create this: 
 a.  Ask user for their first name. 
 b.  Create a cryptic_name variable with an empty string 
